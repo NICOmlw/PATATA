@@ -47,10 +47,36 @@ body {
 #texto-cambia-2 {
   display: none;
 }
+#texto-cambia-1{
+  font-family: 'Original Surfer', cursive;
+}
 #papa-imagen {
   width: 360px;
   height:360px;
 }
-#texto-cambia-1{
+
+#texto-cambia-contenedor2:hover #texto-cambia-2-2 {
+  display: flex;font-family: 'Original Surfer', cursive;
+}
+#texto-cambia-contenedor2:hover #texto-cambia-1-2 {
+  display: none;
+}
+#texto-cambia-2-2 {
+  display: none;
+}
+#texto-cambia-1-2{
+  font-family: 'Original Surfer', cursive;
+}
+
+#texto-cambia-contenedor3:hover #texto-cambia-2-3 {
+  display: flex;font-family: 'Original Surfer', cursive;
+}
+#texto-cambia-contenedor3:hover #texto-cambia-1-3 {
+  display: none;;
+}
+#texto-cambia-2-3 {
+  display: none;
+}
+#texto-cambia-1-3{
   font-family: 'Original Surfer', cursive;
 }
